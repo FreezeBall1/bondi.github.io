@@ -26,12 +26,10 @@
     "serve-static": "1.13.2",
     "setprototypeof": "1.1.0",
     "statuses": "^1.4.0",
-    "turbo360": "^1.8.68",
     "type-is": "^1.6.16",
     "underscore": "^1.13.1",
     "utils-merge": "1.0.1",
-    "vary": "^1.1.2",
-    "vertex360": "^0.10.64"
+    "vary": "^1.1.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
