@@ -120,7 +120,7 @@ router.post('/bondi', (req, res) => {
 
 module.exports = router
 
-router.post('/bondi', (req, res) => {
+router.post('/bondi2', (req, res) => {
     	res.json({
     		confirmation: 'success',
     		resource: "success",
